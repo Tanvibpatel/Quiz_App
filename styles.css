@@ -1,0 +1,59 @@
+body{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    background-color: rgba(0, 140, 255, 0.226);
+    border-radius: 14px;
+    padding: 10px;
+    margin: 12px;
+}
+
+.container{
+    align-self: center;
+    background-color: rgba(0, 140, 255, 0.075);
+    padding: 20px;
+    border-radius: 12px;
+    margin: auto;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: rgb(0, 140, 255);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    margin: 10px;
+}
+
+button::hover{
+    background-color: rgb(3, 126, 226);
+}
+
+.hidden{
+    display: none;
+}
+
+.correct{
+    background-color: green;
+    color: #fff;
+}
+
+.incorrect{
+    background-color: red;
+    color: #fff;
+}
+
+#timer{
+    font-weight: bold;
+    margin: 10px;
+}
+
+#badge{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(0, 81, 255);
+}
