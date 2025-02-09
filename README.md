@@ -5,9 +5,12 @@ A web-based quiz application with engaging gamification features, built using HT
 Dynamic Quiz: Fetches questions from an external API with fallback questions for reliability.
 
 Gamification Elements:
-#⏱ Timer: 15-second countdown for each question.
-#🎯 Points System: Bonus points awarded based on response time.
-#🏆 Badges: Earn badges like "Quiz Master" or "Sharp Thinker" based on your score.
+
+⏱ Timer: 15-second countdown for each question.
+
+🎯 Points System: Bonus points awarded based on response time.
+
+🏆 Badges: Earn badges like "Quiz Master" or "Sharp Thinker" based on your score.
 
 Responsive Design: Clean and intuitive UI for both desktop and mobile.
 
